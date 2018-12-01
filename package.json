@@ -1,22 +1,22 @@
 {
-    "name": "ludem-theme",
-    "displayName": "Ludem Dark Blue Theme",
-    "description": "Dark blue theme modified from the Cobalt2 theme by Wes Bos",
-    "homepage": "https://github.com/ludem/ludem-code-theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.29.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Ludem Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/ludem-color-theme.json"
-            }
-        ]
-    }
+  "name": "ludem-theme",
+  "displayName": "Ludem Dark Blue Theme",
+  "description": "Dark blue theme modified from the Cobalt2 theme by Wes Bos",
+  "homepage": "https://github.com/ludem/ludem-code-theme",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.29.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ludem Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ludem-color-theme.json"
+      }
+    ]
+  }
 }
