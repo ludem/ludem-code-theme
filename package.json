@@ -1,0 +1,21 @@
+{
+    "name": "ludem-theme",
+    "displayName": "Ludem Theme",
+    "description": "Dark blue theme modified from the Cobalt2 theme by Wes Bos",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ludem Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ludem-color-theme.json"
+            }
+        ]
+    }
+}
