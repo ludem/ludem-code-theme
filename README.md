@@ -1,6 +1,9 @@
-# Ludem Dark Blue theme for Visual Studio Code
+# _ludem_ Dark Blue Theme
 
-Dark Blue theme for Visual Studio Code by Luca D'Emilio. 
-Modified from Cobalt2 Theme by Wes Bos.
+[![Version](https://vsmarketplacebadge.apphb.com/version/ludem.ludem-dark-blue.svg
+)](https://marketplace.visualstudio.com/items?itemName=ludem.ludem-theme)  
+
+Dark Blue color theme for Visual Studio Code by Luca D'Emilio.   
+Based on [_Cobalt2_ official theme by Wes Bos](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2).
 
 **Enjoy!**
