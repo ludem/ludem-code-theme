@@ -3,7 +3,7 @@
   "displayName": "Ludem Dark Blue",
   "description": "Dark blue theme modified from the Cobalt2 theme by Wes Bos",
   "repository": "https://github.com/ludem/ludem-code-theme",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "engines": {
     "vscode": "^1.29.0"
   },
