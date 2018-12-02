@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name":"Ludem dark blue theme",
+  "name":"Ludem Dark Blue",
   "type": "dark",
   "colors": {
     "activityBar.background": "#122738",
