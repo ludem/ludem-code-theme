@@ -6,4 +6,3 @@
 Dark Blue color theme for Visual Studio Code by Luca D'Emilio.   
 Based on [_Cobalt2_ official theme by Wes Bos](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2).
 
-**Enjoy!**

@@ -14,7 +14,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Ludem Theme",
+        "label": "Ludem Dark Blue",
         "uiTheme": "vs-dark",
         "path": "./themes/ludem-color-theme.json"
       }
